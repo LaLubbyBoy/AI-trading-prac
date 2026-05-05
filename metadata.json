@@ -1,0 +1,6 @@
+{
+  "name": "EdgeFlow AI",
+  "description": "Institutional-grade market intelligence for forex and indices using probability-based signals and liquidity intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Real-time Charts", "Risk Engine"]
+}
